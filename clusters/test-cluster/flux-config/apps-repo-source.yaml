@@ -8,3 +8,5 @@ spec:
   url: ssh://git@github.com/SlipaNeSpi/apps-repo
   ref:
     branch: main
+  secretRef:
+    name: flux-system
