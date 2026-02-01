@@ -1,0 +1,14 @@
+*.tmp
+*.log
+*.swp
+
+*-secret.yaml
+*-token.yaml
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+*.yaml.bak
